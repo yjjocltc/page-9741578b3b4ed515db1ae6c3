@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "459baf8d2ad85bfd097ca120",
+  "owner": "yjjocltc",
+  "repo": "page-9741578b3b4ed515db1ae6c3",
+  "title": "安心云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9741578b3b4ed515db1ae6c3",
+      "a": "安心云",
+      "b": "2027最新官网",
+      "entity": "安心云",
+      "brand": "安心云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9d8d120c4d7d89e3e1fa650f459db457c9912a94660afbdbb139842bdb3dc243",
+      "content": {
+        "primary_entity": "安心云",
+        "keyword1": "安心云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统挑选客户端，再导入订阅信息。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "先理清设备数量、流量与预算，再回到套餐列表做取舍。",
+          "AI_CLOSING_TITLE": "挑对套餐再连接",
+          "AI_DESCRIPTION": "，面向手机、电脑与路由器等常见终端，围绕套餐容量、设备并发数与订阅周期来组织使用路径。基础版适合单人或轻量场景，旗舰版覆盖日常多设备与流媒体需求，团队版为多人共享和企业路由提供更大流量与专属节点。客户端地址和购买链接由程序补充，订阅配置可参照各客户端文档完成。",
+          "AI_FEATURES_INTRO": "从设备在线数、月流量与计费周期三处对比，更快锁定合适档位。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备与 100GB 月流量，适合手机加笔记本的轻度组合。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持 5 台设备与 300GB 月流量，带 IPLC 专线优化游戏与流媒体。",
+          "AI_FEATURE_TEXT_3": "团队版支持 20 台设备与 1000GB 月流量，提供 VIP 高带宽节点与定制路由。",
+          "AI_FEATURE_TITLE_1": "设备并发数",
+          "AI_FEATURE_TITLE_2": "月流量额度",
+          "AI_FEATURE_TITLE_3": "周期与价格",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "安心云为手机、电脑和路由器等设备提供网络加速订阅，按设备数量、流量与周期划分档位。挑选套餐后获取客户端与订阅信息，即可在对应终端上配置使用。",
+          "AI_HERO_SUBTITLE": "多设备分流，按需选档",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按设备数量与流量选择",
+          "AI_HIGHLIGHT_3": "月付年付灵活计费",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按月流量与设备数递增。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常在线设备数量和月流量需求，对照三档套餐的权益说明确定版本。",
+          "AI_STEP_TEXT_2": "确认自己的手机、电脑或路由器系统，查看对应的适配要求与客户端类型。",
+          "AI_STEP_TEXT_3": "获取订阅信息后，依照所选客户端文档导入订阅并完成配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "按文档配置订阅",
+          "AI_VISUAL_TITLE": "安心云套餐导航",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "安心云不同套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在月流量、同时在线设备数和线路。基础版 100GB/3 台，旗舰版 300GB/5 台并带 IPLC 专线，团队版 1000GB/20 台并支持企业定制路由。",
+          "AI_FAQ_QUESTION_2": "如何把订阅导入客户端？",
+          "AI_FAQ_ANSWER_2": "选择设备对应的客户端，将订阅链接粘贴到客户端的订阅导入位置，保存后更新节点列表即可使用。具体位置参考客户端文档。",
+          "AI_FAQ_QUESTION_3": "同时在线设备数可以超出套餐限制吗？",
+          "AI_FAQ_ANSWER_3": "不建议超出。套餐按同时在线设备数设定，基础版 3 台、旗舰版 5 台、团队版 20 台，超出可能影响连接稳定性，需要更多设备可选更高档位。",
+          "AI_FAQ_QUESTION_4": "按年付比按月付省多少？",
+          "AI_FAQ_ANSWER_4": "基础版年付 ¥150，相当于每月约 ¥12.5；旗舰版年付 ¥350，约每月 ¥29.2；团队版年付 ¥850，约每月 ¥70.8，比按月付更划算。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线针对游戏加速优化，延迟表现更稳定，适合对实时性要求较高的游戏、视频会议等场景，也适合需要高带宽的多任务使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--paoluz-gh8iz134bzha.com",
+    "host": "xn--paoluz-gh8iz134bzha.com"
+  },
+  "file_hashes": {
+    "index.html": "8047b951a250ec3b026150ace6f061d5d91fb5ddef38301aa4c3006e1a8877ee",
+    "sitemap.xml": "4c4547a97430aa1cee605889776c927b9dedb150346c434f47fa53ca30ef689c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4feec83ee6e01230095006b610263a300d24dd8392c98d01e09adddb556ef329",
+    "robots.txt": "1bcad5787637a855972ffab6c29befb192037195bd7eb47e68be7569fa073397",
+    "6a94f38dde0619b0b2832561c228d7f2.txt": "1efeb941fb13b3bc22febf2ab5f09fe030aebb65772b2cc969ed9ddd2f7ad06e"
+  },
+  "revision": "e1a2d5101fb4216fe1779beb660206f785c100fd3a813022670ee279e62fb31c"
+}
